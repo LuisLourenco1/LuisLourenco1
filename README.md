@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLourenco1&layout=compact&hide_progress=true&hide=ShaderLab)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuisLourenco1&theme=cobalt&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
+
 <!--
 **LuisLourenco1/LuisLourenco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
