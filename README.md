@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLourenco1&show_icons=true&theme=cobalt&hide=issues,contribs&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLourenco1&show_icons=true&theme=cobalt&hide=issues,contribs&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLourenco1&layout=compact&hide_progress=true&hide=ShaderLab)
 
