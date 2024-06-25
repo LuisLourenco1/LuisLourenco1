@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luís</h1>
 <h3 align="center">A CS student from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luislourenco1" alt="luislourenco1" /></a> </p>
-
 - 🔭 I’m currently working on [solving programming problems from beecrowd](https://github.com/LuisLourenco1/Solucoes-Beecrowd)
 
 - 🌱 I’m currently learning **SQL and Computer Vision**
