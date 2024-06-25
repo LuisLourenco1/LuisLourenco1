@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLourenco1&show_icons=true&theme=cobalt&hide=issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLourenco1&layout=compact&hide=ShaderLab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLourenco1&layout=compact&hide_progress=true)
 
 <!--
 **LuisLourenco1/LuisLourenco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
